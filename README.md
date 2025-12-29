@@ -98,16 +98,6 @@ Estas observaciones justifican su inclusión como *features* clave en el modelo 
 
 ---
 
-## 🚀 Próximos Pasos
-
-- Codificación de variables categóricas
-- Creación de pipelines con `sklearn`
-- Entrenamiento de modelos
-- Evaluación y comparación de métricas
-- Optimización de hiperparámetros
-
----
-
 ## 👤 Autor
 
 Proyecto realizado por **Raúl Revidiego**  
